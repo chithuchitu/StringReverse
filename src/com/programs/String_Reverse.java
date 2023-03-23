@@ -12,6 +12,7 @@ public class String_Reverse {
 	 }
 
 	 System.out.println("Reversed string: "+ rev);
+	 System.out.println("Updated");
  }
  public static void main(String[] args) {
 	reverseString();
